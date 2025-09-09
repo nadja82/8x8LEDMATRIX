@@ -26,7 +26,7 @@
 #define FRAME_MS_MAX         120
 #define PADDLE_MOVE_EVERY_MIN 1
 #define PADDLE_MOVE_EVERY_MAX 2
-#define AI_TRACK_PROB        95     // % Follow-Intelligenz
+#define AI_TRACK_PROB        88     // % Follow-Intelligenz
 #define FORGIVE_MARGIN       1      // Toleranzpixel am Paddle-Rand (Assist)
 
 // Farb/Stil
