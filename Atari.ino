@@ -17,9 +17,9 @@
 #define ROTATE_90  false
 
 // Musik/Timing
-#define BPM         120
+#define BPM         65
 #define BASE_TICK_MS (60000 / (BPM * 4))  // 16tel: 125 ms bei 120 BPM
-#define SWING       0.18f                 // 0..0.35 (odd-Ticks länger)
+#define SWING       0.15f                 // 0..0.35 (odd-Ticks länger)
 #define FRAME_MS    40                    // sanftere Animation
 
 // Visual Feinschliff
